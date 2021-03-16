@@ -1,0 +1,12 @@
+.content-table{
+    margin-left:5%;
+    margin-right:5%;
+    margin-top:auto;
+    margin-right:auto;
+}
+
+table{
+    table-layout: auto;
+    width: 180px;
+}
+  
